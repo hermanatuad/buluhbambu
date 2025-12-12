@@ -1,0 +1,16 @@
+<xml>
+    <patient name="nasheh" patientid="07">
+        <episode episodeid="01" date="21-12-2025">
+            <stage name="admission" date="21-12-2025" time="21:00"
+                <data type="pdf" name="surat rujukan" url="www.a.com/data/rujuan/pdf" date="" time="">
+                <data>
+                <data>
+                <data>
+            </stage>
+            <stage name="ward" date="" time="">
+                <data>
+                <data>
+            </stage>
+        </episode>
+    </patient>
+</xml>    
